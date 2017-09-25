@@ -101,7 +101,7 @@ As an example - data binding suppport for each component and its props can be si
             "content": "Hello world"
             }
         },
-        bindings":{
+        "bindings":{
             "content": "data.message"
             }
         }]
